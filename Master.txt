@@ -1,1 +1,4 @@
 
+<Version: 1.10>
+/data/Map006.json https://raw.githubusercontent.com/AbelitoGamerYT/BRPGUPT/main/Map006.json
+<End of Version>
